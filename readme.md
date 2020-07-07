@@ -1,3 +1,9 @@
+# Human Resource Management System
+Laravel 5 
+Laravel 5.0,Angular JS,AJAX,Jquery,HTML5,CSS4,Less,Sess,Bootstrap and
+Responsive.
+Database – Mysql.
+
 This system Home page enhanced with full filled with for international policy based dashboard.
 1. Employee wise Attendance.
 a. One Click Sign In/Sign Out for employee in office (Can Be integrated with biometric
@@ -42,8 +48,5 @@ a. Employee wise training entry.
 14. Dynamic Role and Permission:
 a. Dynamic Role Creation.
 b. Role wise Menu permission.
-Technology:
-Laravel 5.0,Angular JS,AJAX,Jquery,HTML5,CSS4,Less,Sess,Bootstrap and
-Responsive.
-Database – Mysql.
+
 Any customization and up-gradation will be negotiable.
