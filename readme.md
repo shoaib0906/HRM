@@ -1,28 +1,49 @@
-## Laravel PHP Framework
-
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
-
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
-
-## Official Documentation
-
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
-# HRM
+This system Home page enhanced with full filled with for international policy based dashboard.
+1. Employee wise Attendance.
+a. One Click Sign In/Sign Out for employee in office (Can Be integrated with biometric
+device).
+b. Report about daily/monthly attendance position.
+c. Bulk attendance insertion facility.
+2. Notice Management.
+a. List of stored notice.
+b. Managing/ adding/ deleting the notice.
+c. Advance notice will be showed defined date or modified.
+3. Expense Management.
+a. Total Expense for human resource can be managed through lots of expense head.
+b. Expense info can be handled for account management system for origination.
+4. Employee Asset Management.
+a. Organizational Assent managing to resources like which employee uses which type of
+assets.
+b. Asset transfer to others resources
+5. Task Management.
+a. Employee task generation
+b. Task can be handled with many facility like note, attachment, chatting etc.
+6. Message & SMS Management :
+a. Admin or manager or employee can send any internal text through SMS or Local
+Messaging System.
+b. SMS can send to a group of targeted people (like Designation wise).
+7. E-mail
+a. Welcome email to employee after registration of employee with username and
+password.
+8. Leave Management(Holiday Request)
+a. Employee will submit leave request.
+b. Admin will approve/Reject it.
+9. Payroll Management.
+a. Complete Payroll System is integrated.
+b. Payroll will calculate the from attendance which is from system.
+10. Schedule Management (Roster Duty).
+a. Employee shifting of duty for each day (from hour-to hour).
+b. Employee hour rate and weekly hour limit validation.
+11. Job Management.
+a. Vaccancy announcement and recruitment process.
+12. Training Management:
+a. Employee wise training entry.
+13. Event Calendar: Holiday, Leave.
+14. Dynamic Role and Permission:
+a. Dynamic Role Creation.
+b. Role wise Menu permission.
+Technology:
+Laravel 5.0,Angular JS,AJAX,Jquery,HTML5,CSS4,Less,Sess,Bootstrap and
+Responsive.
+Database – Mysql.
+Any customization and up-gradation will be negotiable.
