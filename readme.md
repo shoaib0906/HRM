@@ -1,5 +1,5 @@
 # Human Resource Management System
-Laravel 5 
+
 Laravel 5.0,Angular JS,AJAX,Jquery,HTML5,CSS4,Less,Sess,Bootstrap and
 Responsive.
 Database – Mysql.
